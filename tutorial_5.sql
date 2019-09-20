@@ -48,7 +48,8 @@ SELECT continent FROM world
 GROUP BY continent
 HAVING SUM(population) >= 100000000;
 
-----------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
+
 -- SUM and COUNT Quiz
 
 -- 1) Select the statement that shows the sum of population of all countries in 'Europe'
