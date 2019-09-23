@@ -94,7 +94,7 @@ GROUP BY mdate, team1, team2
 ORDER BY mdate, matchid, team1, team2
 
 -----------------------------------------------------------------------------------------------------------------------
-
+-- JOIN Quiz
 
 -- 1) You want to find the stadium where player 'Dimitris Salpingidis' scored. Select the JOIN condition to use:
 
